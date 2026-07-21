@@ -173,10 +173,4 @@ The notebook demonstrates the complete implementation of an ANN-based binary cla
 
 ---
 
-## Author
 
-**Fahim Sami**
-
-Machine Learning and Data Analytics Enthusiast
-
-GitHub: https://github.com/samifahim07
